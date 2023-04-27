@@ -1,3 +1,3 @@
-*** Big Header Here
-** Medium Header
-* Small Header
+### Big Header Here
+## Medium Header
+# Small Header
